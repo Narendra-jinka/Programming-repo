@@ -42,3 +42,29 @@ class Solution {
         return final_num;
     }
 }
+
+/*
+
+class Solution {
+    public int numSquares(int n) {
+        int[] dp = new int[n+1];
+        for(int i=0; i<=n; i++){
+            dp[i] = -1;
+        }
+        return helper(n, dp);
+    }
+    private int helper(int n, int[] dp){
+        if(n <=0){
+            return 0;
+        }
+        if(dp[n] != -1){
+            return dp[n];
+        }
+        int ans = n;
+        for(int i=1; i*i<=n; i++){
+            ans = Math.min(ans, 1+numSquares(n - i*i));
+        }
+        return dp[n] = ans;
+    }
+}
+*/
