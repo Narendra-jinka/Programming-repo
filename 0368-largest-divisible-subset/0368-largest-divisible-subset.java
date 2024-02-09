@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
     public List<Integer> largestDivisibleSubset(int[] n) {
         int len = n.length;
         if(len == 0)
@@ -28,6 +28,46 @@ class Solution {
         }
         
         return res;
+    }
+}
+*/
+class Solution {
+    public List<Integer> largestDivisibleSubset(int[] nums) {
+        if (nums.length == 1) {
+            return Collections.singletonList(nums[0]);
+        }
+
+        HashMap<Integer, Integer> subsetSizes = new HashMap<>();
+        int maxSubsetSize = 1;
+        int maxSubsetEnd = nums[0];
+
+        Arrays.sort(nums);
+
+        for (int i = 0; i < nums.length; i++) {
+            subsetSizes.put(nums[i], 1);
+
+            for (int j = 0; j < i; j++) {
+                if (nums[i] % nums[j] == 0 && subsetSizes.get(nums[j]) + 1 > subsetSizes.get(nums[i])) {
+                    subsetSizes.put(nums[i], subsetSizes.get(nums[j]) + 1);
+
+                    if (subsetSizes.get(nums[i]) > maxSubsetSize) {
+                        maxSubsetSize = subsetSizes.get(nums[i]);
+                        maxSubsetEnd = nums[i];
+                    }
+                }
+            }
+        }
+
+        List<Integer> largestSubset = new ArrayList<>();
+        for (int i = nums.length - 1; i >= 0 && maxSubsetSize > 0; i--) {
+            if (maxSubsetEnd % nums[i] == 0 && subsetSizes.get(nums[i]) == maxSubsetSize) {
+                largestSubset.add(nums[i]);
+                maxSubsetEnd = nums[i];
+                maxSubsetSize--;
+            }
+        }
+
+        return largestSubset;
     }
 }
 
