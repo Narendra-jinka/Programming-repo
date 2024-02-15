@@ -1,15 +1,15 @@
 class Solution {
     public long largestPerimeter(int[] nums) {
-        long sum = 0;
+        long sum=0;
         Arrays.sort(nums);
-        for (int num : nums) {
-            sum += num;
+        for(int i:nums){
+            sum+=i;
+            
         }
-        int n = nums.length;
-        for (int i = n - 1; i >= 2; i--) {
-            sum -= nums[i];
-            if (sum > nums[i]) {
-                return sum + nums[i];
+        for(int i=nums.length-1;i>=2;i--){
+            sum=sum-nums[i];
+            if(sum > nums[i]){
+                return nums[i]+sum;
             }
         }
         return -1;
