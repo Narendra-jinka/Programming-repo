@@ -1,6 +1,6 @@
 class Solution {
     
-    public boolean search(int x,int[] nums2){
+   /* public boolean search(int x,int[] nums2){
         int s=0;
         int e=nums2.length-1;
         
@@ -18,6 +18,7 @@ class Solution {
         }
         return false;
     }
+    */
     public int getCommon(int[] n1, int[] n2) {
         int res=-1;
         
@@ -34,7 +35,7 @@ class Solution {
         
         
         //========Apporach 2 -- 2pointers ==========
-        /*int i=0;
+        int i=0;
         int j=0;
         while(i<n1.length && j<n2.length){
             if(n1[i] == n2[j]){
@@ -48,10 +49,10 @@ class Solution {
                 i++;
             }
         }
-        return res;*/
+        return res;
         
         
-        HashMap<Integer,Integer> map=new HashMap<>();
+       /* HashMap<Integer,Integer> map=new HashMap<>();
         for(int i:n1){
             map.put(i,map.getOrDefault(i,0)+1);
         }
@@ -61,7 +62,7 @@ class Solution {
                 break;
             }
         }
-        return res;
+        return res;*/
         
     }
 }
