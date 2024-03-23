@@ -12,11 +12,10 @@
 class Solution {
     public void reorderList(ListNode head) {
         if (head == null || head.next == null || head.next.next == null) {
-            // If the linked list has 0, 1, or 2 nodes, no reordering is needed
             return;
         }
 
-        // Store the values of the linked list nodes in an ArrayList
+
         ArrayList<Integer> arr = new ArrayList<>();
         ListNode cur = head;
         while (cur != null) {
@@ -24,7 +23,6 @@ class Solution {
             cur = cur.next;
         }
 
-        // Reorder the linked list using the values from the ArrayList
         int n = arr.size() - 1;
         head.val = arr.get(0);
         head.next = new ListNode(arr.get(n));
