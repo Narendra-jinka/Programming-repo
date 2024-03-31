@@ -14,7 +14,7 @@ class Solution {
               bd+=nb;
               nb=0;
             }
-            System.out.println(nb+" "+eb+" "+ne+" "+bd);
+            //System.out.println(nb+" "+eb+" "+ne+" "+bd);
         }
         
         return bd+nb;
