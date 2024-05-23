@@ -1,7 +1,7 @@
 class Solution {
     
     
-    private void find(int ind,int[] arr,int target,HashSet<List<Integer>> set,ArrayList<Integer> ds){
+    private void find(int ind,int[] arr,int target,List<List<Integer>> set,ArrayList<Integer> ds){
         if(ind==arr.length|| target <0){
             
             if(target == 0){
@@ -26,9 +26,9 @@ class Solution {
     
     
     public List<List<Integer>> combinationSum2(int[] arr, int target) {
-        HashSet<List<Integer>> set=new HashSet<>();
+        List<List<Integer>> set=new ArrayList<>();
         Arrays.sort(arr);
         find(0,arr,target,set,new ArrayList<>());
-        return new ArrayList<>(set);
+        return set;
     }
 }
