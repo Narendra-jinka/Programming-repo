@@ -1,4 +1,4 @@
-/*class Solution {
+class Solution {
     List<List<Integer>> ans = new ArrayList<>();
 
     void solve(int[] nums, int[] per, int c) {
@@ -28,9 +28,9 @@
         solve(nums, per, 0);
         return ans;
     }
-}*/
+}
 
-class Solution {
+/*class Solution {
     
     private void find(int[] arr, List<List<Integer>> ans,ArrayList<Integer> ds,boolean[] freq){
         if(ds.size() == arr.length){
@@ -56,3 +56,4 @@ class Solution {
     }
 
 }
+*/
