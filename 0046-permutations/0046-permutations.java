@@ -1,3 +1,8 @@
+
+
+
+// Time and Space optimized .........
+
 /*class Solution {
     List<List<Integer>> ans = new ArrayList<>();
 
@@ -30,6 +35,9 @@
     }
 }
 
+ <--- brute Force ---------->
+ 
+ 
 class Solution {
     
     private void find(int[] arr, List<List<Integer>> ans,ArrayList<Integer> ds,boolean[] freq){
@@ -58,6 +66,8 @@ class Solution {
 }
 */
 
+
+ // sapce optimized 
 class Solution {
     
     private void find(int[] arr,int ind,List<List<Integer>> ans){
