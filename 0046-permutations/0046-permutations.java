@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
     List<List<Integer>> ans = new ArrayList<>();
 
     void solve(int[] nums, int[] per, int c) {
@@ -30,7 +30,7 @@ class Solution {
     }
 }
 
-/*class Solution {
+class Solution {
     
     private void find(int[] arr, List<List<Integer>> ans,ArrayList<Integer> ds,boolean[] freq){
         if(ds.size() == arr.length){
@@ -57,3 +57,34 @@ class Solution {
 
 }
 */
+
+class Solution {
+    
+    private void find(int[] arr,int ind,List<List<Integer>> ans){
+        if(ind == arr.length){
+            List<Integer> ds=new ArrayList<>();
+            for(int i:arr){
+                ds.add(i);
+            }
+            ans.add(ds);
+            return;
+        }
+        for(int i=ind;i<arr.length;i++){
+            swap(i,ind,arr);
+            find(arr,ind+1,ans);
+            swap(i,ind,arr);
+        }
+    }
+    public void swap(int i,int j,int[] arr){
+        int temp=arr[i];
+        arr[i]=arr[j];
+        arr[j]=temp;
+    }
+    public List<List<Integer>> permute(int[] arr) {
+        List<List<Integer>> ans=new ArrayList<>();
+        find(arr,0,ans);
+        
+        return ans;
+    }   
+}
+
