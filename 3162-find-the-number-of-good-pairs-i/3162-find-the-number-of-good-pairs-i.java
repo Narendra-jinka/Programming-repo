@@ -2,7 +2,7 @@ import java.util.*;
 
 class Solution {
     public int numberOfPairs(int[] nums1, int[] nums2, int k) {
-        /*int ans = 0;
+        int ans = 0;
         Map<Integer, Integer> map = new HashMap<>();
 
         
@@ -19,9 +19,9 @@ class Solution {
             }
         }
 
-        return ans;*/
+        return ans;
         
-        int ans=0;
+        /*int ans=0;
         
         for(int i:nums1){
             for(int j:nums2){
@@ -31,6 +31,6 @@ class Solution {
             }
         }
         
-        return ans;
+        return ans;*/
     }
 }
