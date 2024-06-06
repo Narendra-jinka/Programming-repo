@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
     public boolean isNStraightHand(int[] hand, int groupSize) {
        // HashMap<Integer,Integer> map=new HashMap<>();
         Arrays.sort(hand);
@@ -23,7 +23,7 @@ class Solution {
                 }
             }
         }
-        return true;*/
+        return true;
         
        ArrayList<Integer> list=new ArrayList<>();
        for(int i:hand){
@@ -50,4 +50,39 @@ class Solution {
         
         
     }
+}*/
+
+import java.util.*;
+
+class Solution {
+    public boolean isNStraightHand(int[] hand, int groupSize) {
+        if (hand.length % groupSize != 0) {
+            return false; // Total number of cards must be divisible by groupSize
+        }
+
+        Arrays.sort(hand); // Sort the array
+        
+        Map<Integer, Integer> map = new HashMap<>();
+        for (int card : hand) {
+            map.put(card, map.getOrDefault(card, 0) + 1);
+        }
+
+        for (int card : hand) {
+            if (map.get(card) > 0) {
+                for (int i = 0; i < groupSize; i++) {
+                    int currentCard = card + i;
+                    if (map.getOrDefault(currentCard, 0) > 0) {
+                        map.put(currentCard, map.get(currentCard) - 1);
+                    } else {
+                        return false;
+                    }
+                }
+            }
+        }
+        return true;
+    }
+
+    
 }
+
+    
