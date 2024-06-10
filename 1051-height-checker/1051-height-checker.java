@@ -14,6 +14,9 @@ class Solution {
         
         */
         
+        
+        // time opimized 
+        
         int[] count = new int[101];
 
         // Count the occurrences of each height
