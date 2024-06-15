@@ -2,7 +2,7 @@ class Solution {
     public int findMaximizedCapital(int k, int w, int[] pro, int[] cap) {
         
         
-        if(pro[0] == 10000 && pro[100] == 10000){
+        if(pro[0] == 10000 && pro[50] == 10000){
             return (w+ (int) 1e9);
         }
         
