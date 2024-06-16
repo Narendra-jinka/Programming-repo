@@ -1,7 +1,7 @@
 class Solution {
-    /*public int minPatches(int[] nums, int n) {
+    public int minPatches(int[] nums, int n) {
         
-        int miss=1;
+        long miss=1;
         int p=0;
         
         int i=0;
@@ -17,11 +17,11 @@ class Solution {
             }
         }
         return p;
-    }*/
+    }
     
     
   
-    public int minPatches(int[] nums, int n) {
+   /* public int minPatches(int[] nums, int n) {
         int i = 0 ;
         long j = 1;
         
@@ -37,5 +37,5 @@ class Solution {
             }
         }
         return ans;
-    }
+    }*/
 }
