@@ -1,31 +1,23 @@
-import java.util.*;
-
-public class Solution {
-    public List<List<Integer>> subsets(int[] nums) {
-       
-        HashSet<List<Integer>> set = new HashSet<>();
-        
-       
-        set.add(new ArrayList<>());
-        
-        generateSubsets(nums, 0, new ArrayList<>(), set);
-        
-        return new ArrayList<>(set);
-    }
+class Solution {
     
-    private void generateSubsets(int[] nums, int index, List<Integer> current, HashSet<List<Integer>> set) {
-        if (index == nums.length) {
-            set.add(new ArrayList<>(current));
+    
+    public void generate(int i,int[] nums, ArrayList<Integer> list, HashSet<ArrayList<Integer>> set){
+        if(i>=nums.length){
+            set.add(new ArrayList<>(list));
             return;
         }
         
-        current.add(nums[index]);
-        generateSubsets(nums, index + 1, current, set);
-        current.remove(current.size()-1);
-        generateSubsets(nums, index + 1, current, set);
-       
-        
+        list.add(nums[i]);
+        generate(i+1,nums,list,set);
+        list.remove(list.size()-1);
+        generate(i+1,nums,list,set);
     }
-    
-    
+    public List<List<Integer>> subsets(int[] nums) {
+        ArrayList<Integer> list = new ArrayList<>();
+        HashSet<ArrayList<Integer>> set=new HashSet<>();
+        
+        generate(0,nums,list,set);
+        
+        return new ArrayList<>(set);
+    }
 }
