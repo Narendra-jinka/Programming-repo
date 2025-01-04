@@ -4,8 +4,7 @@ class Solution {
         if(n<3){
             return 0;
         }
-        int count;
-        HashMap<Character,Integer> map=new HashMap<>();
+       
         HashSet<String> set=new HashSet<>();
         // for(int i=0;i<n;i++){
         //     char c=s.charAt(i);
