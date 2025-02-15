@@ -209,8 +209,13 @@
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/Narendra-jinka/Programming-repo/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Narendra-jinka/Programming-repo/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Sorting
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Narendra-jinka/Programming-repo/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Narendra-jinka/Programming-repo/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
