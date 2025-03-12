@@ -66,6 +66,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Narendra-jinka/Programming-repo/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/Narendra-jinka/Programming-repo/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Narendra-jinka/Programming-repo/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Narendra-jinka/Programming-repo/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Narendra-jinka/Programming-repo/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Narendra-jinka/Programming-repo/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -141,6 +142,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/Narendra-jinka/Programming-repo/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Narendra-jinka/Programming-repo/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/Narendra-jinka/Programming-repo/tree/master/2448-count-number-of-bad-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Narendra-jinka/Programming-repo/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Narendra-jinka/Programming-repo/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
@@ -302,4 +304,8 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Narendra-jinka/Programming-repo/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Narendra-jinka/Programming-repo/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+## Binary Search
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Narendra-jinka/Programming-repo/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
