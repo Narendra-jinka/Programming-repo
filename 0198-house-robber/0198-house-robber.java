@@ -12,10 +12,19 @@ class Solution {
     public int rob(int[] nums) {
         int n=nums.length;
         int[] dp = new int[n];
-        for(int i=0;i<n;i++){
-            dp[i]=-1;
+        // for(int i=0;i<n;i++){
+        //     dp[i]=-1;
+        // }
+        //Memorization ; 
+        // return helper(n-1,nums,dp);
+
+        dp[0]=nums[0];
+        for(int i=1;i<n;i++){
+            int pic = nums[i] +((i>1) ? dp[i-2] : 0);
+            int notpic = dp[i-1];
+            dp[i]=Math.max(pic,notpic);
         }
 
-        return helper(n-1,nums,dp);
+        return dp[n-1];
     }
 }
