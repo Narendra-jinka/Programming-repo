@@ -42,6 +42,7 @@
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Narendra-jinka/Programming-repo/tree/master/0198-house-robber) |
 | [0407-trapping-rain-water-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/Narendra-jinka/Programming-repo/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -306,6 +307,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Narendra-jinka/Programming-repo/tree/master/0198-house-robber) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
