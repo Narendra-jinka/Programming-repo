@@ -92,6 +92,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Narendra-jinka/Programming-repo/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Narendra-jinka/Programming-repo/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Narendra-jinka/Programming-repo/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
@@ -293,6 +294,7 @@
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Narendra-jinka/Programming-repo/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3430-count-days-without-meetings](https://github.com/Narendra-jinka/Programming-repo/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Narendra-jinka/Programming-repo/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Backtracking
 |  |
 | ------- |
