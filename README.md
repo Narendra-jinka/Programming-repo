@@ -88,6 +88,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Narendra-jinka/Programming-repo/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Narendra-jinka/Programming-repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Narendra-jinka/Programming-repo/tree/master/2792-neighboring-bitwise-xor) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Narendra-jinka/Programming-repo/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Narendra-jinka/Programming-repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
