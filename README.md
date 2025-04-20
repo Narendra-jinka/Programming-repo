@@ -47,6 +47,7 @@
 | [0198-house-robber](https://github.com/Narendra-jinka/Programming-repo/tree/master/0198-house-robber) |
 | [0407-trapping-rain-water-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/0416-partition-equal-subset-sum) |
+| [0797-rabbits-in-forest](https://github.com/Narendra-jinka/Programming-repo/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/Narendra-jinka/Programming-repo/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Narendra-jinka/Programming-repo/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/Narendra-jinka/Programming-repo/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Narendra-jinka/Programming-repo/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Narendra-jinka/Programming-repo/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Narendra-jinka/Programming-repo/tree/master/0952-word-subsets) |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/Narendra-jinka/Programming-repo/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Narendra-jinka/Programming-repo/tree/master/0797-rabbits-in-forest) |
 | [1502-construct-k-palindrome-strings](https://github.com/Narendra-jinka/Programming-repo/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Narendra-jinka/Programming-repo/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Narendra-jinka/Programming-repo/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -300,6 +303,7 @@
 ## Math
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/Narendra-jinka/Programming-repo/tree/master/0797-rabbits-in-forest) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Narendra-jinka/Programming-repo/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Narendra-jinka/Programming-repo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
