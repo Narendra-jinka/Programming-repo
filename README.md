@@ -95,6 +95,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Narendra-jinka/Programming-repo/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Narendra-jinka/Programming-repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Narendra-jinka/Programming-repo/tree/master/2792-neighboring-bitwise-xor) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Narendra-jinka/Programming-repo/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Narendra-jinka/Programming-repo/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Narendra-jinka/Programming-repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -130,6 +131,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/Narendra-jinka/Programming-repo/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Narendra-jinka/Programming-repo/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Narendra-jinka/Programming-repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Narendra-jinka/Programming-repo/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Narendra-jinka/Programming-repo/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Narendra-jinka/Programming-repo/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Narendra-jinka/Programming-repo/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -378,6 +380,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Narendra-jinka/Programming-repo/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Narendra-jinka/Programming-repo/tree/master/2478-longest-nice-subarray) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Narendra-jinka/Programming-repo/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Narendra-jinka/Programming-repo/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Narendra-jinka/Programming-repo/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Binary Search
