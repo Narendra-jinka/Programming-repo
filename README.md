@@ -106,6 +106,7 @@
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Narendra-jinka/Programming-repo/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Narendra-jinka/Programming-repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/Narendra-jinka/Programming-repo/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Narendra-jinka/Programming-repo/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Narendra-jinka/Programming-repo/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -329,6 +330,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/Narendra-jinka/Programming-repo/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Narendra-jinka/Programming-repo/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/Narendra-jinka/Programming-repo/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/Narendra-jinka/Programming-repo/tree/master/3321-type-of-triangle) |
 ## Sorting
 |  |
 | ------- |
@@ -338,6 +340,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Narendra-jinka/Programming-repo/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Narendra-jinka/Programming-repo/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Narendra-jinka/Programming-repo/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3321-type-of-triangle](https://github.com/Narendra-jinka/Programming-repo/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Narendra-jinka/Programming-repo/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Narendra-jinka/Programming-repo/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Backtracking
