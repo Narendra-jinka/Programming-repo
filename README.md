@@ -106,6 +106,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Narendra-jinka/Programming-repo/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Narendra-jinka/Programming-repo/tree/master/3227-find-missing-and-repeated-values) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Narendra-jinka/Programming-repo/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Narendra-jinka/Programming-repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Narendra-jinka/Programming-repo/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -157,6 +158,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Narendra-jinka/Programming-repo/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Narendra-jinka/Programming-repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Narendra-jinka/Programming-repo/tree/master/2792-neighboring-bitwise-xor) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Narendra-jinka/Programming-repo/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Narendra-jinka/Programming-repo/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Narendra-jinka/Programming-repo/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String Matching
@@ -189,6 +191,7 @@
 | [2509-minimize-xor](https://github.com/Narendra-jinka/Programming-repo/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/Narendra-jinka/Programming-repo/tree/master/2681-put-marbles-in-bags) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Narendra-jinka/Programming-repo/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Narendra-jinka/Programming-repo/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Narendra-jinka/Programming-repo/tree/master/3647-zero-array-transformation-iii) |
 ## Counting
 |  |
@@ -344,6 +347,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Narendra-jinka/Programming-repo/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Narendra-jinka/Programming-repo/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Narendra-jinka/Programming-repo/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Narendra-jinka/Programming-repo/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Narendra-jinka/Programming-repo/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Narendra-jinka/Programming-repo/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/Narendra-jinka/Programming-repo/tree/master/3647-zero-array-transformation-iii) |
@@ -363,6 +367,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Narendra-jinka/Programming-repo/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Narendra-jinka/Programming-repo/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Tree
 |  |
 | ------- |
@@ -387,6 +392,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Narendra-jinka/Programming-repo/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Narendra-jinka/Programming-repo/tree/master/2262-solving-questions-with-brainpower) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Narendra-jinka/Programming-repo/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Narendra-jinka/Programming-repo/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Two Pointers
 |  |
 | ------- |
