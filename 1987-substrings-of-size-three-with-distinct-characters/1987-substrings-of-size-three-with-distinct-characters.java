@@ -1,15 +1,20 @@
-
-
-
 class Solution {
     public int countGoodSubstrings(String s) {
-        int ans = 0;
-        for (int i = 0; i < s.length() - 2; i++) {
-            String substring = s.substring(i, i + 3);
-            if (substring.chars().distinct().count() == 3) {
-                ans++;
+        int l=s.length();
+        int i=0,j=0,k=3,count=0;
+        while(j<l)
+        {
+            if(j-i+1<k)
+                j++;
+            else if(j-i+1==k)
+            {
+                if(s.charAt(i)!=s.charAt(j) && s.charAt(j)!=s.charAt(i+1) && s.charAt(i)!=s.charAt(i+1))             
+                    count++;
+                i++;
+                j++;
             }
         }
-        return ans;
+        return count;
+        
     }
 }
