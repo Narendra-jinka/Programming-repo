@@ -25,6 +25,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Narendra-jinka/Programming-repo/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Narendra-jinka/Programming-repo/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Narendra-jinka/Programming-repo/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Narendra-jinka/Programming-repo/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Narendra-jinka/Programming-repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Narendra-jinka/Programming-repo/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -194,6 +195,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/Narendra-jinka/Programming-repo/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Narendra-jinka/Programming-repo/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/Narendra-jinka/Programming-repo/tree/master/2681-put-marbles-in-bags) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Narendra-jinka/Programming-repo/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Narendra-jinka/Programming-repo/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Narendra-jinka/Programming-repo/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Narendra-jinka/Programming-repo/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -415,6 +417,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Narendra-jinka/Programming-repo/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Narendra-jinka/Programming-repo/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Narendra-jinka/Programming-repo/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Narendra-jinka/Programming-repo/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Narendra-jinka/Programming-repo/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sliding Window
 |  |
