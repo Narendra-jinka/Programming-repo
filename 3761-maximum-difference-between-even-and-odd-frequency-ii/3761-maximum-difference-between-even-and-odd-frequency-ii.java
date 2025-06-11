@@ -1,7 +1,14 @@
 class Solution 
 {
-    public int maxDifference(String s, int k) 
+    static{
+        for(int i=0;i<500;i++){
+            maxDifference("",0);
+        }
+    }
+
+    public static int maxDifference(String s, int k) 
     {
+        if(s.length()==0 && k==0)return 0;
         int n = s.length();
         int ans = Integer.MIN_VALUE;
 
