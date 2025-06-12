@@ -126,6 +126,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Narendra-jinka/Programming-repo/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Narendra-jinka/Programming-repo/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Narendra-jinka/Programming-repo/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
