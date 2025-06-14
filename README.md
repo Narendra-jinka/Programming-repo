@@ -204,6 +204,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/Narendra-jinka/Programming-repo/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Narendra-jinka/Programming-repo/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/Narendra-jinka/Programming-repo/tree/master/2681-put-marbles-in-bags) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Narendra-jinka/Programming-repo/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Narendra-jinka/Programming-repo/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Narendra-jinka/Programming-repo/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Narendra-jinka/Programming-repo/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -358,6 +359,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Narendra-jinka/Programming-repo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/Narendra-jinka/Programming-repo/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Narendra-jinka/Programming-repo/tree/master/2649-count-total-number-of-colored-cells) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Narendra-jinka/Programming-repo/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Narendra-jinka/Programming-repo/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/Narendra-jinka/Programming-repo/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Narendra-jinka/Programming-repo/tree/master/3321-type-of-triangle) |
