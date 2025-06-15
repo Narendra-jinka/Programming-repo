@@ -19,28 +19,38 @@ class Solution {
             }
         }
 
-        char minDigit = str.charAt(0);
-        char replace = '1';
-
-        if (minDigit == '1') {
-            for (int i = 1; i < str.length(); i++) {
-                if (str.charAt(i) != '0' && str.charAt(i) != '1') {
-                    minDigit = str.charAt(i);
-                    replace = '0';
-                    break;
+        
+        if(str.charAt(0)=='1'){
+            char x='0';
+            for(int i=1;i<str.length();i++){
+                char k=str.charAt(i);
+                if(k!='0'&&k!='1'){
+                    if(x==k){
+                        minStr.setCharAt(i,'0');
+                    }
+                    else{
+                        if(x=='0'){
+                            x=k;
+                            minStr.setCharAt(i,'0');
+                        }
+                    }
                 }
             }
+            
         }
-
-        for (int i = 0; i < minStr.length(); i++) {
-            if (minStr.charAt(i) == minDigit) {
-                minStr.setCharAt(i, replace);
-            }
+        else{
+           char x=  str.charAt(0);
+           for(int i=0;i<str.length();i++){
+                if(str.charAt(i)==x){
+                    minStr.setCharAt(i,'1');
+                }
+           }   
         }
-
+        
         int maxVal = Integer.parseInt(maxStr.toString());
         int minVal = Integer.parseInt(minStr.toString());
-
+        //System.out.println("MIN "+ minVal);
+        //System.out.println("MAX "+maxVal);
         return maxVal - minVal;
     }
 }
