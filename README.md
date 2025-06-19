@@ -89,6 +89,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/Narendra-jinka/Programming-repo/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Narendra-jinka/Programming-repo/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/Narendra-jinka/Programming-repo/tree/master/2358-number-of-ways-to-split-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Narendra-jinka/Programming-repo/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/Narendra-jinka/Programming-repo/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Narendra-jinka/Programming-repo/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -203,6 +204,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/Narendra-jinka/Programming-repo/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Narendra-jinka/Programming-repo/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Narendra-jinka/Programming-repo/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Narendra-jinka/Programming-repo/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Narendra-jinka/Programming-repo/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Narendra-jinka/Programming-repo/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/Narendra-jinka/Programming-repo/tree/master/2681-put-marbles-in-bags) |
@@ -373,6 +375,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Narendra-jinka/Programming-repo/tree/master/0075-sort-colors) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Narendra-jinka/Programming-repo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Narendra-jinka/Programming-repo/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Narendra-jinka/Programming-repo/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Narendra-jinka/Programming-repo/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Narendra-jinka/Programming-repo/tree/master/2681-put-marbles-in-bags) |
