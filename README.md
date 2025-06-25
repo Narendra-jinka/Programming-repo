@@ -81,6 +81,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/Narendra-jinka/Programming-repo/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Narendra-jinka/Programming-repo/tree/master/2145-grid-game) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Narendra-jinka/Programming-repo/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Narendra-jinka/Programming-repo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Narendra-jinka/Programming-repo/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/Narendra-jinka/Programming-repo/tree/master/2249-count-the-hidden-sequences) |
@@ -460,6 +461,7 @@
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Narendra-jinka/Programming-repo/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Narendra-jinka/Programming-repo/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Narendra-jinka/Programming-repo/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Narendra-jinka/Programming-repo/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Narendra-jinka/Programming-repo/tree/master/2690-house-robber-iv) |
