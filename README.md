@@ -24,6 +24,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Narendra-jinka/Programming-repo/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Narendra-jinka/Programming-repo/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Narendra-jinka/Programming-repo/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Narendra-jinka/Programming-repo/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Narendra-jinka/Programming-repo/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Narendra-jinka/Programming-repo/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/2465-shifting-letters-ii) |
@@ -206,6 +207,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Narendra-jinka/Programming-repo/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Narendra-jinka/Programming-repo/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Narendra-jinka/Programming-repo/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Narendra-jinka/Programming-repo/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Narendra-jinka/Programming-repo/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Narendra-jinka/Programming-repo/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/Narendra-jinka/Programming-repo/tree/master/2681-put-marbles-in-bags) |
@@ -427,6 +429,7 @@
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Narendra-jinka/Programming-repo/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Narendra-jinka/Programming-repo/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Narendra-jinka/Programming-repo/tree/master/2262-solving-questions-with-brainpower) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Narendra-jinka/Programming-repo/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Narendra-jinka/Programming-repo/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Narendra-jinka/Programming-repo/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Two Pointers
@@ -486,6 +489,7 @@
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Narendra-jinka/Programming-repo/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Narendra-jinka/Programming-repo/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Combinatorics
 |  |
 | ------- |
