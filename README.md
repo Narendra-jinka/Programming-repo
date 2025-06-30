@@ -61,6 +61,7 @@
 | [0198-house-robber](https://github.com/Narendra-jinka/Programming-repo/tree/master/0198-house-robber) |
 | [0407-trapping-rain-water-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/0416-partition-equal-subset-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/Narendra-jinka/Programming-repo/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/Narendra-jinka/Programming-repo/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -136,6 +137,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Narendra-jinka/Programming-repo/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Narendra-jinka/Programming-repo/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -224,6 +226,7 @@
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Narendra-jinka/Programming-repo/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Narendra-jinka/Programming-repo/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Narendra-jinka/Programming-repo/tree/master/1396-count-servers-that-communicate) |
@@ -381,6 +384,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Narendra-jinka/Programming-repo/tree/master/0075-sort-colors) |
+| [0594-longest-harmonious-subsequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Narendra-jinka/Programming-repo/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Narendra-jinka/Programming-repo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -456,6 +460,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Narendra-jinka/Programming-repo/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Narendra-jinka/Programming-repo/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Narendra-jinka/Programming-repo/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
