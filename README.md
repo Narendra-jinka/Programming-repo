@@ -36,6 +36,7 @@
 | [3447-clear-digits](https://github.com/Narendra-jinka/Programming-repo/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Narendra-jinka/Programming-repo/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Narendra-jinka/Programming-repo/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Prefix Sum
@@ -51,6 +52,7 @@
 | [2465-shifting-letters-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Narendra-jinka/Programming-repo/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Narendra-jinka/Programming-repo/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/3618-find-the-original-typed-string-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Narendra-jinka/Programming-repo/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -442,6 +444,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Narendra-jinka/Programming-repo/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Narendra-jinka/Programming-repo/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Narendra-jinka/Programming-repo/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/3618-find-the-original-typed-string-ii) |
 ## Two Pointers
 |  |
 | ------- |
