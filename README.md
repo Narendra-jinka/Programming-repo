@@ -85,6 +85,7 @@
 | [1876-map-of-highest-peak](https://github.com/Narendra-jinka/Programming-repo/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Narendra-jinka/Programming-repo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/Narendra-jinka/Programming-repo/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Narendra-jinka/Programming-repo/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Narendra-jinka/Programming-repo/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -155,6 +156,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Narendra-jinka/Programming-repo/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Narendra-jinka/Programming-repo/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Narendra-jinka/Programming-repo/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Narendra-jinka/Programming-repo/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Narendra-jinka/Programming-repo/tree/master/2107-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -365,6 +367,7 @@
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/Narendra-jinka/Programming-repo/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
