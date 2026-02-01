@@ -59,6 +59,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Narendra-jinka/Programming-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Narendra-jinka/Programming-repo/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/Narendra-jinka/Programming-repo/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Narendra-jinka/Programming-repo/tree/master/0217-contains-duplicate) |
@@ -468,6 +469,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Narendra-jinka/Programming-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Narendra-jinka/Programming-repo/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Narendra-jinka/Programming-repo/tree/master/0151-reverse-words-in-a-string) |
 | [0768-partition-labels](https://github.com/Narendra-jinka/Programming-repo/tree/master/0768-partition-labels) |
