@@ -63,6 +63,7 @@
 | [0075-sort-colors](https://github.com/Narendra-jinka/Programming-repo/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/Narendra-jinka/Programming-repo/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Narendra-jinka/Programming-repo/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/Narendra-jinka/Programming-repo/tree/master/0287-find-the-duplicate-number) |
 | [0407-trapping-rain-water-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/0416-partition-equal-subset-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0594-longest-harmonious-subsequence) |
@@ -184,6 +185,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Narendra-jinka/Programming-repo/tree/master/0287-find-the-duplicate-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Narendra-jinka/Programming-repo/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Narendra-jinka/Programming-repo/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Narendra-jinka/Programming-repo/tree/master/2478-longest-nice-subarray) |
@@ -472,6 +474,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Narendra-jinka/Programming-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Narendra-jinka/Programming-repo/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Narendra-jinka/Programming-repo/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/Narendra-jinka/Programming-repo/tree/master/0287-find-the-duplicate-number) |
 | [0768-partition-labels](https://github.com/Narendra-jinka/Programming-repo/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Narendra-jinka/Programming-repo/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Narendra-jinka/Programming-repo/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -501,6 +504,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Narendra-jinka/Programming-repo/tree/master/0287-find-the-duplicate-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Narendra-jinka/Programming-repo/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Narendra-jinka/Programming-repo/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
