@@ -61,6 +61,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Narendra-jinka/Programming-repo/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/Narendra-jinka/Programming-repo/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/Narendra-jinka/Programming-repo/tree/master/0217-contains-duplicate) |
 | [0407-trapping-rain-water-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/0416-partition-equal-subset-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0594-longest-harmonious-subsequence) |
@@ -144,6 +145,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Narendra-jinka/Programming-repo/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Narendra-jinka/Programming-repo/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Narendra-jinka/Programming-repo/tree/master/0797-rabbits-in-forest) |
@@ -400,6 +402,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Narendra-jinka/Programming-repo/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Narendra-jinka/Programming-repo/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Narendra-jinka/Programming-repo/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Narendra-jinka/Programming-repo/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
