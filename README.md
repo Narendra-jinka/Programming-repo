@@ -16,6 +16,7 @@
 | [1524-string-matching-in-an-array](https://github.com/Narendra-jinka/Programming-repo/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Narendra-jinka/Programming-repo/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Narendra-jinka/Programming-repo/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Narendra-jinka/Programming-repo/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Narendra-jinka/Programming-repo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Narendra-jinka/Programming-repo/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Narendra-jinka/Programming-repo/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -226,6 +227,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Narendra-jinka/Programming-repo/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/Narendra-jinka/Programming-repo/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Narendra-jinka/Programming-repo/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Narendra-jinka/Programming-repo/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Narendra-jinka/Programming-repo/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Narendra-jinka/Programming-repo/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Narendra-jinka/Programming-repo/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
