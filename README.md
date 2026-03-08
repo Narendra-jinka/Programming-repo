@@ -21,6 +21,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Narendra-jinka/Programming-repo/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Narendra-jinka/Programming-repo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Narendra-jinka/Programming-repo/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1980-find-unique-binary-string](https://github.com/Narendra-jinka/Programming-repo/tree/master/1980-find-unique-binary-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Narendra-jinka/Programming-repo/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Narendra-jinka/Programming-repo/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Narendra-jinka/Programming-repo/tree/master/2107-find-unique-binary-string) |
@@ -93,6 +94,7 @@
 | [1876-map-of-highest-peak](https://github.com/Narendra-jinka/Programming-repo/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Narendra-jinka/Programming-repo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1980-find-unique-binary-string](https://github.com/Narendra-jinka/Programming-repo/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/Narendra-jinka/Programming-repo/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Narendra-jinka/Programming-repo/tree/master/2145-grid-game) |
@@ -164,6 +166,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/Narendra-jinka/Programming-repo/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Narendra-jinka/Programming-repo/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Narendra-jinka/Programming-repo/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1980-find-unique-binary-string](https://github.com/Narendra-jinka/Programming-repo/tree/master/1980-find-unique-binary-string) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Narendra-jinka/Programming-repo/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Narendra-jinka/Programming-repo/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -432,6 +435,7 @@
 | ------- |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Narendra-jinka/Programming-repo/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1980-find-unique-binary-string](https://github.com/Narendra-jinka/Programming-repo/tree/master/1980-find-unique-binary-string) |
 | [2107-find-unique-binary-string](https://github.com/Narendra-jinka/Programming-repo/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Narendra-jinka/Programming-repo/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Narendra-jinka/Programming-repo/tree/master/2802-find-the-punishment-number-of-an-integer) |
