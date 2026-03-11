@@ -192,6 +192,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Narendra-jinka/Programming-repo/tree/master/0287-find-the-duplicate-number) |
+| [1009-complement-of-base-10-integer](https://github.com/Narendra-jinka/Programming-repo/tree/master/1009-complement-of-base-10-integer) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Narendra-jinka/Programming-repo/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Narendra-jinka/Programming-repo/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Narendra-jinka/Programming-repo/tree/master/2478-longest-nice-subarray) |
