@@ -387,6 +387,7 @@
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1622-fancy-sequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/Narendra-jinka/Programming-repo/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
@@ -398,6 +399,7 @@
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/Narendra-jinka/Programming-repo/tree/master/0797-rabbits-in-forest) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Narendra-jinka/Programming-repo/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1622-fancy-sequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/1622-fancy-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Narendra-jinka/Programming-repo/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Narendra-jinka/Programming-repo/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -549,4 +551,8 @@
 |  |
 | ------- |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Narendra-jinka/Programming-repo/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
