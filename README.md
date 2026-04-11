@@ -147,6 +147,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Narendra-jinka/Programming-repo/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Narendra-jinka/Programming-repo/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Narendra-jinka/Programming-repo/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Narendra-jinka/Programming-repo/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
@@ -188,6 +189,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Narendra-jinka/Programming-repo/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Narendra-jinka/Programming-repo/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
