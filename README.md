@@ -96,6 +96,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1980-find-unique-binary-string](https://github.com/Narendra-jinka/Programming-repo/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Narendra-jinka/Programming-repo/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2107-find-unique-binary-string](https://github.com/Narendra-jinka/Programming-repo/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Narendra-jinka/Programming-repo/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Narendra-jinka/Programming-repo/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -236,6 +237,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/Narendra-jinka/Programming-repo/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Narendra-jinka/Programming-repo/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Narendra-jinka/Programming-repo/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Narendra-jinka/Programming-repo/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Narendra-jinka/Programming-repo/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Narendra-jinka/Programming-repo/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Narendra-jinka/Programming-repo/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
