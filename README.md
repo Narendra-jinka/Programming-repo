@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Narendra-jinka/Programming-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Narendra-jinka/Programming-repo/tree/master/0036-valid-sudoku) |
 | [0075-sort-colors](https://github.com/Narendra-jinka/Programming-repo/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/Narendra-jinka/Programming-repo/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Narendra-jinka/Programming-repo/tree/master/0217-contains-duplicate) |
@@ -154,6 +155,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Narendra-jinka/Programming-repo/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/Narendra-jinka/Programming-repo/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Narendra-jinka/Programming-repo/tree/master/0768-partition-labels) |
@@ -328,6 +330,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Narendra-jinka/Programming-repo/tree/master/0036-valid-sudoku) |
 | [0407-trapping-rain-water-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/Narendra-jinka/Programming-repo/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Narendra-jinka/Programming-repo/tree/master/1396-count-servers-that-communicate) |
