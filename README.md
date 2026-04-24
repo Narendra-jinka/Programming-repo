@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Narendra-jinka/Programming-repo/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Narendra-jinka/Programming-repo/tree/master/0151-reverse-words-in-a-string) |
 | [0768-partition-labels](https://github.com/Narendra-jinka/Programming-repo/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Narendra-jinka/Programming-repo/tree/master/0868-push-dominoes) |
@@ -494,6 +495,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Narendra-jinka/Programming-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Narendra-jinka/Programming-repo/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Narendra-jinka/Programming-repo/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Narendra-jinka/Programming-repo/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Narendra-jinka/Programming-repo/tree/master/0287-find-the-duplicate-number) |
 | [0768-partition-labels](https://github.com/Narendra-jinka/Programming-repo/tree/master/0768-partition-labels) |
