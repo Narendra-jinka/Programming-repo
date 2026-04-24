@@ -68,6 +68,7 @@
 | [0036-valid-sudoku](https://github.com/Narendra-jinka/Programming-repo/tree/master/0036-valid-sudoku) |
 | [0075-sort-colors](https://github.com/Narendra-jinka/Programming-repo/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Narendra-jinka/Programming-repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Narendra-jinka/Programming-repo/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Narendra-jinka/Programming-repo/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Narendra-jinka/Programming-repo/tree/master/0287-find-the-duplicate-number) |
@@ -497,6 +498,7 @@
 | [0075-sort-colors](https://github.com/Narendra-jinka/Programming-repo/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Narendra-jinka/Programming-repo/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Narendra-jinka/Programming-repo/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Narendra-jinka/Programming-repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Narendra-jinka/Programming-repo/tree/master/0287-find-the-duplicate-number) |
 | [0768-partition-labels](https://github.com/Narendra-jinka/Programming-repo/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Narendra-jinka/Programming-repo/tree/master/0868-push-dominoes) |
@@ -528,6 +530,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Narendra-jinka/Programming-repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Narendra-jinka/Programming-repo/tree/master/0287-find-the-duplicate-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Narendra-jinka/Programming-repo/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Narendra-jinka/Programming-repo/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
