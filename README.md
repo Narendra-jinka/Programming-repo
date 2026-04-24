@@ -35,6 +35,7 @@
 | [2465-shifting-letters-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Narendra-jinka/Programming-repo/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Narendra-jinka/Programming-repo/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2833-furthest-point-from-origin](https://github.com/Narendra-jinka/Programming-repo/tree/master/2833-furthest-point-from-origin) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Narendra-jinka/Programming-repo/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Narendra-jinka/Programming-repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Narendra-jinka/Programming-repo/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -273,6 +274,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/Narendra-jinka/Programming-repo/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Narendra-jinka/Programming-repo/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Narendra-jinka/Programming-repo/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2833-furthest-point-from-origin](https://github.com/Narendra-jinka/Programming-repo/tree/master/2833-furthest-point-from-origin) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Narendra-jinka/Programming-repo/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
