@@ -66,6 +66,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Narendra-jinka/Programming-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Narendra-jinka/Programming-repo/tree/master/0036-valid-sudoku) |
 | [0075-sort-colors](https://github.com/Narendra-jinka/Programming-repo/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/Narendra-jinka/Programming-repo/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Narendra-jinka/Programming-repo/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Narendra-jinka/Programming-repo/tree/master/0287-find-the-duplicate-number) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Narendra-jinka/Programming-repo/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Narendra-jinka/Programming-repo/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Narendra-jinka/Programming-repo/tree/master/0768-partition-labels) |
@@ -562,4 +564,8 @@
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/1622-fancy-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
