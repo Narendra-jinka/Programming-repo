@@ -293,6 +293,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/Narendra-jinka/Programming-repo/tree/master/0684-redundant-connection) |
@@ -360,6 +361,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -467,6 +469,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -480,6 +483,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/0124-binary-tree-maximum-path-sum) |
