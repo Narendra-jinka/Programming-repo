@@ -362,6 +362,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Narendra-jinka/Programming-repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/Narendra-jinka/Programming-repo/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/0543-diameter-of-binary-tree) |
@@ -468,6 +469,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Narendra-jinka/Programming-repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Narendra-jinka/Programming-repo/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -480,6 +482,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Narendra-jinka/Programming-repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Narendra-jinka/Programming-repo/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -492,6 +495,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Narendra-jinka/Programming-repo/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/0416-partition-equal-subset-sum) |
 | [0868-push-dominoes](https://github.com/Narendra-jinka/Programming-repo/tree/master/0868-push-dominoes) |
