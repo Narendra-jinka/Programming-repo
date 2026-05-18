@@ -1,42 +1,39 @@
 class Solution {
-    Set<Integer> set;
-    public List<List<Integer>> convertToAdj(int[][] isConnected) {
 
-        int n = isConnected.length;
-        List<List<Integer>> res = new ArrayList<>();
-        for (int i = 0; i <= n; i++) {
-            res.add(new ArrayList<>());
-        }
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (isConnected[i][j] == 1 && i != j) {
-                    res.get(i + 1).add(j + 1);
-                }
-            }
-        }
-        return res;
-    }
+    Set<Integer> visited;
 
-    public void dfs(int u,List<List<Integer>> adj){
-        set.add(u);
-        for(int v:adj.get(u)){
-            if(!set.contains(v)){
-                dfs(v,adj);
+    public void dfs(int node, int[][] isConnected) {
+
+        visited.add(node);
+
+        for (int nei = 0; nei < isConnected.length; nei++) {
+
+            if (isConnected[node][nei] == 1 &&
+                !visited.contains(nei)) {
+
+                dfs(nei, isConnected);
             }
         }
     }
+
     public int findCircleNum(int[][] isConnected) {
-        List<List<Integer>> adj = convertToAdj(isConnected);
-        set = new HashSet<>();
-        int n = isConnected.length;
-        int count=0;
-        for(int i=1;i<=n;i++){
-           if(!set.contains(i)){
-                count++;
-                dfs(i,adj);
-           }
-        }
-        return count;
 
+        int n = isConnected.length;
+
+        visited = new HashSet<>();
+
+        int count = 0;
+
+        for (int i = 0; i < n; i++) {
+
+            if (!visited.contains(i)) {
+
+                count++;
+
+                dfs(i, isConnected);
+            }
+        }
+
+        return count;
     }
 }
