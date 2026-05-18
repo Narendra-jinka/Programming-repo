@@ -297,6 +297,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Narendra-jinka/Programming-repo/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/0407-trapping-rain-water-ii) |
+| [0547-number-of-provinces](https://github.com/Narendra-jinka/Programming-repo/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Narendra-jinka/Programming-repo/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Narendra-jinka/Programming-repo/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Narendra-jinka/Programming-repo/tree/master/0854-making-a-large-island) |
@@ -369,6 +370,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Narendra-jinka/Programming-repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/Narendra-jinka/Programming-repo/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Narendra-jinka/Programming-repo/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Narendra-jinka/Programming-repo/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Narendra-jinka/Programming-repo/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Narendra-jinka/Programming-repo/tree/master/0854-making-a-large-island) |
@@ -603,4 +605,9 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Narendra-jinka/Programming-repo/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Narendra-jinka/Programming-repo/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
