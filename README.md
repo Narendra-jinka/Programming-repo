@@ -637,4 +637,5 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Narendra-jinka/Programming-repo/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Narendra-jinka/Programming-repo/tree/master/0547-number-of-provinces) |
+| [1791-find-center-of-star-graph](https://github.com/Narendra-jinka/Programming-repo/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
