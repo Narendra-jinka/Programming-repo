@@ -76,6 +76,7 @@
 | [0200-number-of-islands](https://github.com/Narendra-jinka/Programming-repo/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Narendra-jinka/Programming-repo/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Narendra-jinka/Programming-repo/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0300-longest-increasing-subsequence) |
 | [0407-trapping-rain-water-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/0416-partition-equal-subset-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0594-longest-harmonious-subsequence) |
@@ -522,6 +523,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Narendra-jinka/Programming-repo/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Narendra-jinka/Programming-repo/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/0416-partition-equal-subset-sum) |
 | [0868-push-dominoes](https://github.com/Narendra-jinka/Programming-repo/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -580,6 +582,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Narendra-jinka/Programming-repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Narendra-jinka/Programming-repo/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0300-longest-increasing-subsequence) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Narendra-jinka/Programming-repo/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Narendra-jinka/Programming-repo/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
