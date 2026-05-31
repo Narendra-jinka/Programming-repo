@@ -443,6 +443,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Narendra-jinka/Programming-repo/tree/master/0070-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/Narendra-jinka/Programming-repo/tree/master/0797-rabbits-in-forest) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Narendra-jinka/Programming-repo/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1622-fancy-sequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/1622-fancy-sequence) |
@@ -525,6 +526,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Narendra-jinka/Programming-repo/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Narendra-jinka/Programming-repo/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Narendra-jinka/Programming-repo/tree/master/0198-house-robber) |
@@ -616,6 +618,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Narendra-jinka/Programming-repo/tree/master/0070-climbing-stairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Narendra-jinka/Programming-repo/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Narendra-jinka/Programming-repo/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Combinatorics
