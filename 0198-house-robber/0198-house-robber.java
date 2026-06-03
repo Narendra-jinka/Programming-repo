@@ -18,13 +18,26 @@ class Solution {
         //Memorization ; 
         // return helper(n-1,nums,dp);
 
-        dp[0]=nums[0];
-        for(int i=1;i<n;i++){
-            int pic = nums[i] +((i>1) ? dp[i-2] : 0);
-            int notpic = dp[i-1];
-            dp[i]=Math.max(pic,notpic);
-        }
+        //Tabulation
+        // dp[0]=nums[0];
+        // for(int i=1;i<n;i++){
+        //     int pic = nums[i] +((i>1) ? dp[i-2] : 0);
+        //     int notpic = dp[i-1];
+        //     dp[i]=Math.max(pic,notpic);
+        // }
 
-        return dp[n-1];
+        // return dp[n-1];
+
+        //Space optimization
+        int prev = nums[0];
+        int prev2 = 0;
+        for(int i=1;i<n;i++){
+            int cur = Math.max(nums[i] + prev2, prev);
+            prev2 = prev;
+            prev = cur;
+        } 
+
+        return prev;
+
     }
 }
