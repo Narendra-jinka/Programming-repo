@@ -69,6 +69,7 @@
 | [0011-container-with-most-water](https://github.com/Narendra-jinka/Programming-repo/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Narendra-jinka/Programming-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Narendra-jinka/Programming-repo/tree/master/0036-valid-sudoku) |
+| [0063-unique-paths-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Narendra-jinka/Programming-repo/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Narendra-jinka/Programming-repo/tree/master/0152-maximum-product-subarray) |
@@ -356,6 +357,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Narendra-jinka/Programming-repo/tree/master/0036-valid-sudoku) |
+| [0063-unique-paths-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/Narendra-jinka/Programming-repo/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/Narendra-jinka/Programming-repo/tree/master/0733-flood-fill) |
@@ -529,6 +531,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Narendra-jinka/Programming-repo/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Narendra-jinka/Programming-repo/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Narendra-jinka/Programming-repo/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Narendra-jinka/Programming-repo/tree/master/0152-maximum-product-subarray) |
