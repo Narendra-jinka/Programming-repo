@@ -444,6 +444,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Narendra-jinka/Programming-repo/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Narendra-jinka/Programming-repo/tree/master/0070-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/Narendra-jinka/Programming-repo/tree/master/0797-rabbits-in-forest) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Narendra-jinka/Programming-repo/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -527,6 +528,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Narendra-jinka/Programming-repo/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Narendra-jinka/Programming-repo/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Narendra-jinka/Programming-repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Narendra-jinka/Programming-repo/tree/master/0152-maximum-product-subarray) |
@@ -626,6 +628,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Narendra-jinka/Programming-repo/tree/master/0062-unique-paths) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Narendra-jinka/Programming-repo/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Segment Tree
 |  |
