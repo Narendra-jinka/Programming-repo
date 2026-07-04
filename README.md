@@ -320,6 +320,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Narendra-jinka/Programming-repo/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Narendra-jinka/Programming-repo/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/Narendra-jinka/Programming-repo/tree/master/1876-map-of-highest-peak) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Narendra-jinka/Programming-repo/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Narendra-jinka/Programming-repo/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Narendra-jinka/Programming-repo/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -402,6 +403,7 @@
 | [1396-count-servers-that-communicate](https://github.com/Narendra-jinka/Programming-repo/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Narendra-jinka/Programming-repo/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Narendra-jinka/Programming-repo/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Narendra-jinka/Programming-repo/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Narendra-jinka/Programming-repo/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Narendra-jinka/Programming-repo/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Narendra-jinka/Programming-repo/tree/master/2793-count-the-number-of-complete-components) |
@@ -646,10 +648,12 @@
 | [0128-longest-consecutive-sequence](https://github.com/Narendra-jinka/Programming-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Narendra-jinka/Programming-repo/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Narendra-jinka/Programming-repo/tree/master/0547-number-of-provinces) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Narendra-jinka/Programming-repo/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Narendra-jinka/Programming-repo/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Narendra-jinka/Programming-repo/tree/master/0547-number-of-provinces) |
 | [1791-find-center-of-star-graph](https://github.com/Narendra-jinka/Programming-repo/tree/master/1791-find-center-of-star-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Narendra-jinka/Programming-repo/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
